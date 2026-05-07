@@ -1,16 +1,23 @@
-## Hi there 👋
+# I'm Sandra | AI Implementation Specialist
 
-<!--
-**sandraelzatom/sandraelzatom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Architecting Intentionality within Autonomous Intelligence Workflows**
 
-Here are some ideas to get you started:
+I am an emerging AI Product Engineer dedicated to transforming complex LLM architectures into intuitive, high-impact human experiences. I bridge the gap between research-grade AI and functional, user-centric deployment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Project
+**[JurisPrism: Hierarchical GraphRAG for Legal Discovery](https://github.com/sandraelzatom/aspirational-ai-workflow)**
+*Resolving context fragmentation in legal discovery through entity-relationship mapping and automated hallucination unit testing.*
+
+---
+
+### 🧠 Core Competencies
+* **Architectures:** Recursive RAG, Multi-Agent Orchestration, Knowledge Graphs.
+* **Technical Stack:** Python, LangChain, Pydantic, Neo4j, DeepEval.
+* **Specializations:** Latent Space Navigation, Ethical AI Guardrails, Adversarial Red-Teaming.
+
+---
+
+### 📬 Connect with Me
+[LinkedIn](YOUR_LINKEDIN_URL) | [Portfolio Site](YOUR_PORTFOLIO_URL) | [Email](mailto:YOUR_EMAIL)

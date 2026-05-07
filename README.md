@@ -1,5 +1,8 @@
-# I'm Sandra | AI Implementation Specialist
+<p align="center">
+  <img src="portrait.jpg" width="300" style="border-radius: 50%;">
+</p>
 
+# I'm Sandra | AI Implementation Specialist
 > **Architecting Intentionality within Autonomous Intelligence Workflows**
 
 I am an emerging AI Product Engineer dedicated to transforming complex LLM architectures into intuitive, high-impact human experiences. I bridge the gap between research-grade AI and functional, user-centric deployment.
